@@ -7,5 +7,6 @@ public class Start {
     public static void main(String[] args) {
         int n = 22;
         Rambow.main(n);
+        System.out.println("Hello");
     }
 }
