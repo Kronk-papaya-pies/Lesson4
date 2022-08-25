@@ -5,6 +5,13 @@ import java.util.Random;
 public class Matr {
     public static void main(String[] args) {
 
+        System.out.println("Как же меня это бесит");
+        System.out.println("на кой черт я вообще такая?");
+        System.out.println("Лучше б меня не было");
+        System.out.println("Было бы гораздо меньше проблем");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Дура, дура, дура");
+        }
         String[][] arrays = new String[10][10];
         float[][] arrayf = new float[10][10];
         int k = 1;
